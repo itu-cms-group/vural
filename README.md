@@ -1,5 +1,7 @@
-#Branches consist different codes (and Fritzing drawings for electronic devices)
+#in master there is the main project codes
 
-#Branches
-#soundLevel: Determining the sound level with Arduino Uno and one microphone
-#angleFinder:Determining the direction of the sound with Arduino Uno and four microphones
+#branches consist different codes (and fritzing drawings for electronic devices) i created in process
+
+#branches
+#soundLevel: determining the sound level with arduino uno and one microphone
+#angleFinder:determining the direction of the sound with arduino uno and four microphones
