@@ -1,3 +1,0 @@
-# vural
-
-#My project codes
